@@ -1,3 +1,4 @@
+Goal of this fork is to add an api to create "repeating" scheduled notifications. E.g. set a notification to repeat daily at 9am. This notification repeats n times every m minutes or until cancelled. Starting with Android, looks like work may begin in the intent scheudling here: https://github.com/mpkasp/cordova-plugin-local-notifications/blob/master/src/android/notification/Notification.java#L175
 
 <p align="left"><b><a href="https://github.com/katzer/cordova-plugin-local-notifications/tree/example-x">SAMPLE APP</a> :point_right:</b></p>
 
